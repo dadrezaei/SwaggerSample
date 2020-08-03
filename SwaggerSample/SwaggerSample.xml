@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerSample</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerSample.Controllers.WeatherForecastController.Get">
+            <summary>
+            test summary for Get WeatherForecast
+            </summary>
+            <returns>List of WeatherForecast</returns>
+        </member>
+        <member name="M:SwaggerSample.Controllers.WeatherForecastController.Edit(System.String)">
+            <summary>
+            Update Summaries
+            </summary>
+            <param name="summary">string item to add to the Summaries</param>
+            <returns>Array of string</returns>
+            <remarks>more details about api</remarks>
+        </member>
+    </members>
+</doc>
