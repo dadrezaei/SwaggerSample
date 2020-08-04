@@ -21,7 +21,7 @@ In the next step, open "Startup.cs" file and then add the following code to "Con
 >                     new OpenApiInfo()
 >                     {
 >                         Title = "your project title",
->                         Version = "v1",`
+>                         Version = "v1",
 >                         Description = "your project Description"
 >                     });
 >                 var filePath = Path.Combine(System.AppContext.BaseDirectory, "SwaggerSample.xml"); //name of XML file in pervious step!
