@@ -37,3 +37,4 @@ And the following code to "Configure" method:
 >             });
 Done!
 
+For more information please see the summary example in Controller.
